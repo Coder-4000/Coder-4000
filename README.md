@@ -1,8 +1,7 @@
-![anime-male-avatar_950633-915](https://github.com/user-attachments/assets/797a4f44-3f27-4b52-82c7-cb206a8bf306)# About Me.
+# About Me.
 Hi i 'm new to GitHub and exicited to start my coding journey.
 I'm learning programming, web developement, and exploring new technologies.
-![Me: Aroh Rain](![Uploading anime-male-avatar_950633-915.jpg…]
-)
+![Me: Aroh Rain](![anime-male-avatar_950633-915.jpg](https://github.com/user-attachments/assets/aa28f246-1da2-44ed-89ef-44ea558e3399))
 
 ## My Goals. 
 - Learn Python and web development.
