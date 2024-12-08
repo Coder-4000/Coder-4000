@@ -1,6 +1,6 @@
 # About Me.
 Hi i 'm new to GitHub and exicited to start my coding journey.
-I'm learning programming web developement, and exploring new technologies.
+I'm learning programming, web developement, and exploring new technologies.
 
 ## My Goals. 
 - Learn Python and web development.
