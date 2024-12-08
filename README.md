@@ -1,4 +1,4 @@
-#About Me.
+# About Me.
 Hi i 'm new to GitHub and exicited to start my coding journey.
 I'm learning programming web developement, and exploring new technologies.
 
@@ -7,16 +7,16 @@ I'm learning programming web developement, and exploring new technologies.
 - Work on fun useful projects.
 -Share my progress and connect with other developers.
 
-##What I am Learning.
+## What I am Learning.
 - Python
 - Buliding interactive projects
 - Building websites with HTML, CSS and JavaScript.
 
-##What I have Learnt.
+## What I have Learnt.
 - JavaScript
 - HTML
 - CSS.
-##Why i joined Github.
+## Why i joined Github.
 - Save my Code online.
 - Learn from others
 - Showcase my work as i grow
