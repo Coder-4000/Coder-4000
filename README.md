@@ -1,7 +1,8 @@
 # About Me.
 Hi i 'm new to GitHub and exicited to start my coding journey.
 I'm learning programming, web developement, and exploring new technologies.
-
+![Alt text](![anime-male-avatar_950633-915](https://github.com/user-attachments/assets/c4efb2b3-78af-484a-9122-7edac96d7ba5)
+)
 ## My Goals. 
 - Learn Python and web development.
 - Work on fun useful projects.
