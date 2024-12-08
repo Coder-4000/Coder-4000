@@ -5,7 +5,7 @@ I'm learning programming, web developement, and exploring new technologies.
 ## My Goals. 
 - Learn Python and web development.
 - Work on fun useful projects.
--Share my progress and connect with other developers.
+- Share my progress and connect with other developers.
 
 ## What I am Learning.
 - Python
