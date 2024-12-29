@@ -1,7 +1,7 @@
 # About Me.
 Hi my name is Aroh Rain I 'm new to GitHub and exicited to start my coding journey.
 I'm learning programming, web developement, and exploring new technologies.
-![anime-male-avatar_950633-915](https://github.com/user-attachments/assets/b25a15c0-a8a0-45e4-b5fe-8731c57d93b5)
+https://devcard.link/tK7fHJ 
 
 
 ## My Goals. 
