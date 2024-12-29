@@ -1,7 +1,7 @@
 # About Me.
 Hi my name is Aroh Rain I 'm new to GitHub and exicited to start my coding journey.
 I'm learning programming, web developement, and exploring new technologies.
-https://devcard.link/tK7fHJ 
+[View my dev card]https://devcard.link/tK7fHJ 
 
 
 ## My Goals. 
