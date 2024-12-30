@@ -1,8 +1,8 @@
 # About Me.
 Hi my name is Aroh Rain I 'm new to GitHub and exicited to start my coding journey.
 I'm learning programming, web developement, and exploring new technologies.
-[View my dev card]https://devcard.link/tK7fHJ 
-
+### This is my dev card
+<a href="https://app.daily.dev/aroh"><img src="https://api.daily.dev/devcards/v2/QtHtpTYvBz3F6OXVjlsfp.png?type=default&r=6b8" width="356" alt="Aroh Rain's Dev Card"/></a>
 
 ## My Goals. 
 - Learn Python and web development.
